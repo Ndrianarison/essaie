@@ -1,0 +1,43 @@
+#img{
+    border-radius: 100px;
+    right: 43%;
+    bottom: 99%;
+    position: absolute;
+}
+.profil{
+   height: 550px;
+    width: 550px;
+    background-color: aqua;
+    z-index: -1;
+}
+#body1{
+    background-color: darkcyan;
+}
+body{
+    background-color: bisque
+}
+.container{
+    margin-top: 20%;
+}
+#img1{
+    width:70px; 
+    height:70px;
+    left: 45%;
+    border-radius: 100px;
+    bottom: 91%;
+    position: absolute;
+}
+.modal{
+    margin-top: 5%;
+}
+.modal-content{
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 80px;
+    margin-top: 10px;
+}
+.modal-dialog{
+    margin-top:8.4%;
+}
+.container{
+    margin-top: 20%;
+}
